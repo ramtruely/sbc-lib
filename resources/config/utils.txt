@@ -1,0 +1,11 @@
+Utils Shared Library v1.1.0
+
+Available functions:
+- utils() - Returns all utilities
+- deploy.toEnvironment(env, app, version)
+- testUtils.runUnitTests()
+- utils.git.getLatestTag()
+
+Classes available:
+- com.sbc.pipeline.Deployer
+- com.sbc.utils.GitHelper
