@@ -1,0 +1,5 @@
+{
+  "environments": ["dev", "staging", "prod"],
+  "defaultNamespace": "sbc-apps",
+  "imageRegistry": "your-registry.com"
+}
